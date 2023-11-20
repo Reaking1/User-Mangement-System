@@ -1,0 +1,22 @@
+ table {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+ }
+
+ td,th {
+    border: 2px solid gainsboro;
+    text-align: left;
+    padding: 8px;
+ }
+
+ tr:nth-child(even) {
+    background-color: seashell;
+ }
+
+
+ button{
+  background-color: rgb(203, 234, 64);
+  font-size: 20px;
+  border-radius: 6px;
+ }
